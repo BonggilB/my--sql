@@ -1,0 +1,6 @@
+JOIN 같지않음 : NOT= 사용가능한지
+
+
+패스워드 만들때 이름을 꼭 mysql_native_password로 해야하는지
+
+EER 이라고 적혀있던데 ERD랑 같은건지
